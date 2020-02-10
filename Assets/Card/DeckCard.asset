@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6043998ef13d8a04599181494d42a901, type: 3}
+  m_Name: DeckCard
+  m_EditorClassIdentifier: 
+  cardType: {fileID: 11400000, guid: 53b1a73f24e369247b4da2e7e1c50753, type: 2}
+  name: 
+  description: 
+  cost: 0
+  attack: 0
+  health: 0
+  icon: {fileID: 21300000, guid: 3a9f16f98a16b084396fedbc5a55e30d, type: 3}
+  background: {fileID: 21300000, guid: 826dc42eb000ed24e981b572518b1d2a, type: 3}
+  prefab: {fileID: 0}
